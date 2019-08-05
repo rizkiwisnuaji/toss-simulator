@@ -25,7 +25,7 @@
         "1027": {
             "id": 1027, 
             "name": "Ethereum", 
-            "symbol": "ETH", 
+            "symbol": "ETHER", 
             "website_slug": "ethereum", 
             "rank": 2, 
             "circulating_supply": 107193644.0, 
