@@ -1,0 +1,110 @@
+{
+    "attention": "WARNING: This API is now deprecated and will be taken offline soon.", 
+    "data": {
+        "1": {
+            "id": 1, 
+            "name": "TOSS Type 1", 
+            "kapasitas_pembangkit": "30kW", 
+            "efisiensi_listrik": 0.8, 
+            "jam_op_har": 24.0, 
+            "kebutuhan_energi_kwh_hari": 900.0, 
+            "kebutuhan_pelet_per_tahun": 295.650, 
+            "harga_pelet_per_ton": 500.0, 
+            "ratio_konsumsi_pelet_per_solar": 0.6, 
+            "biaya_total_bahan_bakar_per_tahun": 89667000.0, 
+            "jumlah_operator": 3.0, 
+            "gaji_operator_per_bulan": 3000000.0, 
+            "suku_cadang_mat_jasa_oh_percent": 10.0, 
+            "biaya_operasi_per_tahun": 247467000.0, 
+            "harga_listrik_feed_in_tariff": 1600.0, 
+            "pendapatan_per_tahun": 420480000.0,  
+            "prod_kwh_per_tahun": 262800.0, 
+            "lcoe": 0.079, 
+            "irr_percent": 18.0, 
+            "ratio_berat_pelet_per_kwh": 0.9, 
+            "harga_minyak_solar": 9000.0, 
+            "discount_factor_percent": 12.0, 
+            "costs": {
+                "IDR": {
+                    "biaya_investasi": 498000000.0
+                },
+                "USD": {
+                    "total_generating_cost": 207879.0
+                }
+            }, 
+            "last_updated": 1565003129
+        }, 
+        "2": {
+            "id": 2, 
+            "name": "TOSS Type 2", 
+            "kapasitas_pembangkit": "50kW", 
+            "efisiensi_listrik": 0.8, 
+            "jam_op_har": 24.0, 
+            "kebutuhan_energi_kwh_hari": 1500.0, 
+            "kebutuhan_pelet_per_tahun": 492.750, 
+            "harga_pelet_per_ton": 500.0, 
+            "ratio_konsumsi_pelet_per_solar": 0.6, 
+            "biaya_total_bahan_bakar_per_tahun": 147826080.0, 
+            "jumlah_operator": 4.0, 
+            "gaji_operator_per_bulan": 3500000.0, 
+            "suku_cadang_mat_jasa_oh_percent": 10.0, 
+            "biaya_operasi_per_tahun": 400826080.0, 
+            "harga_listrik_feed_in_tariff": 1600.0, 
+            "pendapatan_per_tahun": 700800000.0,  
+            "prod_kwh_per_tahun": 438000.0, 
+            "lcoe": 0.078, 
+            "irr_percent": 19.0, 
+            "ratio_berat_pelet_per_kwh": 0.9, 
+            "harga_minyak_solar": "SFC liter/kWh", 
+            "discount_factor_percent": 12.0, 
+            "costs": {
+                "IDR": {
+                    "biaya_investasi": 850000000.0
+                },
+                "USD": {
+                    "total_generating_cost": 339739.0
+                }
+            }, 
+            "last_updated": 1565003129
+        }, 
+        "3": {
+            "id": 3, 
+            "name": "TOSS Type 3", 
+            "kapasitas_pembangkit": "100kW", 
+            "efisiensi_listrik": 0.8, 
+            "jam_op_har": 24.0, 
+            "kebutuhan_energi_kwh_hari": 3000.0, 
+            "kebutuhan_pelet_per_tahun": 985.500, 
+            "harga_pelet_per_ton": 600.0, 
+            "ratio_konsumsi_pelet_per_solar": 0.6, 
+            "biaya_total_bahan_bakar_per_tahun": 354781080.0, 
+            "jumlah_operator": 6.0, 
+            "gaji_operator_per_bulan": 3500000.0, 
+            "suku_cadang_mat_jasa_oh_percent": 10.0, 
+            "biaya_operasi_per_tahun": 741781080.0, 
+            "harga_listrik_feed_in_tariff": 1400.0, 
+            "pendapatan_per_tahun": 1226400000.0,  
+            "prod_kwh_per_tahun": 876000.0, 
+            "lcoe": 0.070, 
+            "irr_percent": 20.0, 
+            "ratio_berat_pelet_per_kwh": 0.9, 
+            "harga_minyak_solar": 0.3, 
+            "discount_factor_percent": 12.0, 
+            "costs": {
+                "IDR": {
+                    "biaya_investasi": 1350000000.0
+                },
+                "USD": {
+                    "total_generating_cost": 613314.0
+                }
+            }, 
+            "last_updated": 1565003129
+        }
+    }, 
+    "metadata": {
+        "timestamp": 1565002843, 
+        "warning": "WARNING: This API is now deprecated and will be taken offline soon.", 
+        "num_simulator": 3, 
+        "error": null
+    }
+}
