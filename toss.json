@@ -3,7 +3,7 @@
     "data": {
         "1": {
             "id": 1, 
-            "name": "TOSS Type 1", 
+            "name": "Type 1", 
             "kapasitas_pembangkit": "30kW", 
             "efisiensi_listrik": 0.8, 
             "jam_op_har": 24.0, 
@@ -36,7 +36,7 @@
         }, 
         "2": {
             "id": 2, 
-            "name": "TOSS Type 2", 
+            "name": "Type 2", 
             "kapasitas_pembangkit": "50kW", 
             "efisiensi_listrik": 0.8, 
             "jam_op_har": 24.0, 
@@ -69,7 +69,7 @@
         }, 
         "3": {
             "id": 3, 
-            "name": "TOSS Type 3", 
+            "name": "Type 3", 
             "kapasitas_pembangkit": "100kW", 
             "efisiensi_listrik": 0.8, 
             "jam_op_har": 24.0, 
