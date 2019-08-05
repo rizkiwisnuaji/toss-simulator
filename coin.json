@@ -1,0 +1,74 @@
+{
+    "attention": "WARNING: This API is now deprecated and will be taken offline soon.  Please switch to the new CoinMarketCap API to avoid interruptions in service. (https://pro.coinmarketcap.com/migrate/)", 
+    "data": {
+        "1": {
+            "id": 1, 
+            "name": "Bitcoin", 
+            "symbol": "BTC", 
+            "website_slug": "bitcoin", 
+            "rank": 1, 
+            "circulating_supply": 17859025.0, 
+            "total_supply": 17859025.0, 
+            "max_supply": 21000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 11678.6507319, 
+                    "volume_24h": 22121736154.0658, 
+                    "market_cap": 208569315387.0, 
+                    "percent_change_1h": -0.41, 
+                    "percent_change_24h": 8.98, 
+                    "percent_change_7d": 22.17
+                }
+            }, 
+            "last_updated": 1565003129
+        }, 
+        "1027": {
+            "id": 1027, 
+            "name": "Ethereum", 
+            "symbol": "ETH", 
+            "website_slug": "ethereum", 
+            "rank": 2, 
+            "circulating_supply": 107193644.0, 
+            "total_supply": 107193644.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 234.110594171, 
+                    "volume_24h": 6805978154.28043, 
+                    "market_cap": 25095167659.0, 
+                    "percent_change_1h": 1.29, 
+                    "percent_change_24h": 6.66, 
+                    "percent_change_7d": 11.11
+                }
+            }, 
+            "last_updated": 1565003125
+        }, 
+        "52": {
+            "id": 52, 
+            "name": "XRP", 
+            "symbol": "XRP", 
+            "website_slug": "ripple", 
+            "rank": 3, 
+            "circulating_supply": 42872646068.0, 
+            "total_supply": 99991387607.0, 
+            "max_supply": 100000000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 0.3296151432, 
+                    "volume_24h": 1197041381.38525, 
+                    "market_cap": 14131473375.0, 
+                    "percent_change_1h": 2.1, 
+                    "percent_change_24h": 4.46, 
+                    "percent_change_7d": 6.31
+                }
+            }, 
+            "last_updated": 1565003104
+        }
+    }, 
+    "metadata": {
+        "timestamp": 1565002843, 
+        "warning": "WARNING: This API is now deprecated and will be taken offline soon.  Please switch to the new CoinMarketCap API to avoid interruptions in service. (https://pro.coinmarketcap.com/migrate/)", 
+        "num_cryptocurrencies": 2302, 
+        "error": null
+    }
+}
