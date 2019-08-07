@@ -9,7 +9,7 @@
             "jam_op_har": "24", 
             "kebutuhan_energi_kwh_hari": "900", 
             "kebutuhan_pelet_per_tahun": "295.650", 
-            "harga_pelet_per_ton": 500, 
+            "harga_pelet_per_ton": "500", 
             "ratio_konsumsi_pelet_per_solar": 0.6, 
             "biaya_total_bahan_bakar_per_tahun": 89667000.0, 
             "jumlah_operator": "3", 
